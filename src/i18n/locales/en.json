@@ -1,0 +1,90 @@
+{
+  "header": {
+    "features": "Features",
+    "stories": "Stories",
+    "about": "About",
+    "download": "Download"
+  },
+  "hero": {
+    "tagline": "Made by neurodivergent minds, for neurodivergent minds",
+    "title": "Your ADHD-Friendly Mission Control Center",
+    "subtitle": "Transform chaos into clarity with a productivity app that actually understands how your brain works. Built by a neurodivergent team who gets it, because we live it.",
+    "stats": {
+      "adhd": "ADHD-Optimized",
+      "users": "50,000+ Users"
+    },
+    "cta": {
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    }
+  },
+  "features": {
+    "focus": {
+      "title": "Focus Mode That Gets You",
+      "description": "Designed for the ADHD brain, our intelligent timer system adapts to your unique focus patterns",
+      "benefits": [
+        "Body-doubling feature with virtual accountability partners",
+        "Flexible Pomodoro timers that adapt to your energy levels",
+        "Ambient space sounds to maintain focus and block distractions",
+        "Visual time tracking that makes time feel tangible"
+      ]
+    },
+    "achievement": {
+      "title": "Achievement Tracking That Celebrates You",
+      "description": "Because every small win deserves recognition, especially on tough executive function days",
+      "benefits": [
+        "Dopamine-boosting celebration animations for completed tasks",
+        "Visual progress tracking that motivates without overwhelming",
+        "Customizable reward system for your unique interests",
+        "Streak tracking that's forgiving and autism-friendly"
+      ]
+    },
+    "missions": {
+      "title": "Daily Missions for Your Unique Journey",
+      "description": "Transform overwhelming tasks into manageable, exciting space missions",
+      "benefits": [
+        "Task breakdown system for executive function support",
+        "Sensory-friendly interface with customizable themes",
+        "Flexible routines that adapt to energy fluctuations",
+        "Emergency 'Reset Mission' feature for overwhelming moments"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Real Stories from Our Crew",
+    "stories": {
+      "alex": {
+        "quote": "As someone with ADHD, traditional productivity apps never clicked. MissionControl's space theme and flexible timers finally make task management feel natural, not forced. The body-doubling feature is a game-changer for my focus!",
+        "author": "Alex Chen",
+        "title": "Software Developer with ADHD"
+      },
+      "sarah": {
+        "quote": "The sensory-friendly design and customizable interface means I can adjust everything to my comfort level. As an autistic individual, having this control while maintaining structure is invaluable.",
+        "author": "Sarah Martinez",
+        "title": "Digital Artist & Autism Advocate"
+      },
+      "jordan": {
+        "quote": "Finally, an app that understands executive dysfunction! The 'Reset Mission' feature helps me bounce back on tough days without shame. It's like having a supportive friend who really gets it.",
+        "author": "Jordan Taylor",
+        "title": "Student & ADHD Content Creator"
+      }
+    }
+  },
+  "about": {
+    "title": "Built Different, Because We Are Different",
+    "description": "MissionControl wasn't born in a typical startup incubator. It was created by a team of neurodivergent developers, designers, and productivity enthusiasts who understand the unique challenges of ADHD and autism firsthand. We've poured our experiences, struggles, and breakthroughs into every feature."
+  },
+  "cta": {
+    "title": "Ready for Launch?",
+    "description": "Join our neurodivergent community of 50,000+ space explorers who are conquering tasks, building routines, and celebrating victories together.",
+    "button": "Start Your Journey"
+  },
+  "footer": {
+    "links": {
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "contact": "Contact"
+    },
+    "copyright": "© 2024 MissionControl. All rights reserved."
+  }
+}

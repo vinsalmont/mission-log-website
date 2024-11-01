@@ -1,0 +1,90 @@
+{
+  "header": {
+    "features": "Funzionalità",
+    "stories": "Storie",
+    "about": "Chi Siamo",
+    "download": "Scarica"
+  },
+  "hero": {
+    "tagline": "Creato da menti neurodivergenti, per menti neurodivergenti",
+    "title": "Il tuo Centro di Controllo ADHD",
+    "subtitle": "Trasforma il caos in chiarezza con un'app di produttività che comprende davvero come funziona il tuo cervello. Costruita da un team neurodivergente che lo capisce, perché lo vive.",
+    "stats": {
+      "adhd": "Ottimizzato per ADHD",
+      "users": "+50.000 Utenti"
+    },
+    "cta": {
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    }
+  },
+  "features": {
+    "focus": {
+      "title": "Modalità Focus che ti Capisce",
+      "description": "Progettato per il cervello ADHD, il nostro sistema di timer intelligente si adatta ai tuoi schemi di concentrazione unici",
+      "benefits": [
+        "Funzione di body-doubling con partner virtuali",
+        "Timer Pomodoro flessibili che si adattano ai tuoi livelli di energia",
+        "Suoni ambientali spaziali per mantenere la concentrazione",
+        "Monitoraggio visivo del tempo che lo rende tangibile"
+      ]
+    },
+    "achievement": {
+      "title": "Monitoraggio dei Risultati che ti Celebra",
+      "description": "Perché ogni piccola vittoria merita un riconoscimento, specialmente nei giorni difficili",
+      "benefits": [
+        "Animazioni di celebrazione che aumentano la dopamina",
+        "Monitoraggio visivo dei progressi che motiva senza sopraffare",
+        "Sistema di ricompense personalizzabile",
+        "Monitoraggio delle serie adatto all'autismo"
+      ]
+    },
+    "missions": {
+      "title": "Missioni Quotidiane per il tuo Viaggio Unico",
+      "description": "Trasforma i compiti travolgenti in missioni spaziali emozionanti e gestibili",
+      "benefits": [
+        "Sistema di scomposizione delle attività",
+        "Interfaccia sensoriale con temi personalizzabili",
+        "Routine flessibili che si adattano alle fluttuazioni di energia",
+        "Funzione 'Resetta Missione' per i momenti difficili"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Storie Vere dal Nostro Equipaggio",
+    "stories": {
+      "alex": {
+        "quote": "Come persona con ADHD, le app di produttività tradizionali non hanno mai funzionato. Il tema spaziale e i timer flessibili di MissionControl rendono finalmente la gestione delle attività naturale, non forzata.",
+        "author": "Alex Chen",
+        "title": "Sviluppatore Software con ADHD"
+      },
+      "sarah": {
+        "quote": "Il design attento alla sensorialità e l'interfaccia personalizzabile mi permettono di regolare tutto al mio livello di comfort. Come persona autistica, avere questo controllo mantenendo la struttura è inestimabile.",
+        "author": "Sarah Martinez",
+        "title": "Artista Digitale e Sostenitrice dell'Autismo"
+      },
+      "jordan": {
+        "quote": "Finalmente, un'app che capisce la disfunzione esecutiva! La funzione 'Resetta Missione' mi aiuta a riprendermi nei giorni difficili senza vergogna.",
+        "author": "Jordan Taylor",
+        "title": "Studente e Creatore di Contenuti ADHD"
+      }
+    }
+  },
+  "about": {
+    "title": "Costruito Diversamente, Perché Siamo Diversi",
+    "description": "MissionControl non è nato in un tipico incubatore di startup. È stato creato da un team di sviluppatori, designer e appassionati di produttività neurodivergenti che comprendono le sfide uniche dell'ADHD e dell'autismo."
+  },
+  "cta": {
+    "title": "Pronto per il Decollo?",
+    "description": "Unisciti alla nostra comunità neurodivergente di oltre 50.000 esploratori spaziali che stanno conquistando compiti, costruendo routine e celebrando vittorie insieme.",
+    "button": "Inizia il Tuo Viaggio"
+  },
+  "footer": {
+    "links": {
+      "terms": "Termini di Servizio",
+      "privacy": "Privacy",
+      "contact": "Contatti"
+    },
+    "copyright": "© 2024 MissionControl. Tutti i diritti riservati."
+  }
+}

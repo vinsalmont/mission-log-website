@@ -1,0 +1,90 @@
+{
+  "header": {
+    "features": "Fonctionnalités",
+    "stories": "Témoignages",
+    "about": "À propos",
+    "download": "Télécharger"
+  },
+  "hero": {
+    "tagline": "Créé par des esprits neurodivergents, pour des esprits neurodivergents",
+    "title": "Votre Centre de Contrôle TDAH",
+    "subtitle": "Transformez le chaos en clarté avec une application de productivité qui comprend réellement comment fonctionne votre cerveau. Construite par une équipe neurodivergente qui comprend, parce qu'elle le vit.",
+    "stats": {
+      "adhd": "Optimisé TDAH",
+      "users": "+50 000 Utilisateurs"
+    },
+    "cta": {
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    }
+  },
+  "features": {
+    "focus": {
+      "title": "Mode Focus qui vous Comprend",
+      "description": "Conçu pour le cerveau TDAH, notre système de minuterie intelligent s'adapte à vos schémas de concentration uniques",
+      "benefits": [
+        "Fonction de double corporel avec partenaires de responsabilité virtuels",
+        "Minuteries Pomodoro flexibles qui s'adaptent à vos niveaux d'énergie",
+        "Sons ambiants spatiaux pour maintenir la concentration",
+        "Suivi visuel du temps qui le rend tangible"
+      ]
+    },
+    "achievement": {
+      "title": "Suivi des Réussites qui vous Célèbre",
+      "description": "Parce que chaque petite victoire mérite d'être reconnue, surtout les jours difficiles",
+      "benefits": [
+        "Animations de célébration stimulant la dopamine",
+        "Suivi visuel des progrès qui motive sans submerger",
+        "Système de récompenses personnalisable",
+        "Suivi des séries adapté à l'autisme"
+      ]
+    },
+    "missions": {
+      "title": "Missions Quotidiennes pour votre Voyage Unique",
+      "description": "Transformez les tâches accablantes en missions spatiales excitantes et gérables",
+      "benefits": [
+        "Système de décomposition des tâches",
+        "Interface sensorielle adaptée avec thèmes personnalisables",
+        "Routines flexibles qui s'adaptent aux fluctuations d'énergie",
+        "Fonction 'Réinitialiser la Mission' pour les moments difficiles"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Histoires Réelles de Notre Équipage",
+    "stories": {
+      "alex": {
+        "quote": "En tant que personne TDAH, les applications de productivité traditionnelles n'ont jamais fonctionné. Le thème spatial et les minuteries flexibles de MissionControl rendent enfin la gestion des tâches naturelle, pas forcée.",
+        "author": "Alex Chen",
+        "title": "Développeur Logiciel avec TDAH"
+      },
+      "sarah": {
+        "quote": "La conception adaptée aux sensibilités et l'interface personnalisable me permettent d'ajuster tout à mon niveau de confort. En tant que personne autiste, avoir ce contrôle tout en maintenant la structure est inestimable.",
+        "author": "Sarah Martinez",
+        "title": "Artiste Numérique & Défenseure de l'Autisme"
+      },
+      "jordan": {
+        "quote": "Enfin, une application qui comprend la dysfonction exécutive ! La fonction 'Réinitialiser la Mission' m'aide à rebondir les jours difficiles sans honte.",
+        "author": "Jordan Taylor",
+        "title": "Étudiant & Créateur de Contenu TDAH"
+      }
+    }
+  },
+  "about": {
+    "title": "Construit Différemment, Parce que Nous Sommes Différents",
+    "description": "MissionControl n'est pas né dans un incubateur de startups typique. Il a été créé par une équipe de développeurs, designers et passionnés de productivité neurodivergents qui comprennent les défis uniques du TDAH et de l'autisme."
+  },
+  "cta": {
+    "title": "Prêt pour le Décollage ?",
+    "description": "Rejoignez notre communauté neurodivergente de plus de 50 000 explorateurs spatiaux qui conquièrent des tâches, construisent des routines et célèbrent des victoires ensemble.",
+    "button": "Commencez Votre Voyage"
+  },
+  "footer": {
+    "links": {
+      "terms": "Conditions d'Utilisation",
+      "privacy": "Politique de Confidentialité",
+      "contact": "Contact"
+    },
+    "copyright": "© 2024 MissionControl. Tous droits réservés."
+  }
+}

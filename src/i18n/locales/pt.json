@@ -1,0 +1,90 @@
+{
+  "header": {
+    "features": "Recursos",
+    "stories": "Histórias",
+    "about": "Sobre",
+    "download": "Baixar"
+  },
+  "hero": {
+    "tagline": "Feito por mentes neurodivergentes, para mentes neurodivergentes",
+    "title": "Seu Centro de Controle TDAH",
+    "subtitle": "Transforme o caos em clareza com um aplicativo de produtividade que realmente entende como seu cérebro funciona. Construído por uma equipe neurodivergente que entende, porque vive isso.",
+    "stats": {
+      "adhd": "Otimizado para TDAH",
+      "users": "+50.000 Usuários"
+    },
+    "cta": {
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    }
+  },
+  "features": {
+    "focus": {
+      "title": "Modo Foco que te Entende",
+      "description": "Projetado para o cérebro TDAH, nosso sistema inteligente de temporizador se adapta aos seus padrões únicos de concentração",
+      "benefits": [
+        "Recurso de body-doubling com parceiros virtuais",
+        "Temporizadores Pomodoro flexíveis que se adaptam aos seus níveis de energia",
+        "Sons ambientes espaciais para manter o foco",
+        "Rastreamento visual do tempo que o torna tangível"
+      ]
+    },
+    "achievement": {
+      "title": "Acompanhamento de Conquistas que te Celebra",
+      "description": "Porque cada pequena vitória merece reconhecimento, especialmente em dias difíceis",
+      "benefits": [
+        "Animações de celebração que aumentam a dopamina",
+        "Acompanhamento visual do progresso que motiva sem sobrecarregar",
+        "Sistema de recompensas personalizável",
+        "Acompanhamento de sequências amigável ao autismo"
+      ]
+    },
+    "missions": {
+      "title": "Missões Diárias para sua Jornada Única",
+      "description": "Transforme tarefas esmagadoras em missões espaciais empolgantes e gerenciáveis",
+      "benefits": [
+        "Sistema de decomposição de tarefas",
+        "Interface sensorial amigável com temas personalizáveis",
+        "Rotinas flexíveis que se adaptam às flutuações de energia",
+        "Função 'Reiniciar Missão' para momentos difíceis"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Histórias Reais da Nossa Tripulação",
+    "stories": {
+      "alex": {
+        "quote": "Como alguém com TDAH, apps de produtividade tradicionais nunca funcionaram. O tema espacial e os temporizadores flexíveis do MissionControl finalmente tornam o gerenciamento de tarefas natural, não forçado.",
+        "author": "Alex Chen",
+        "title": "Desenvolvedor de Software com TDAH"
+      },
+      "sarah": {
+        "quote": "O design sensorial amigável e a interface personalizável significam que posso ajustar tudo ao meu nível de conforto. Como pessoa autista, ter esse controle mantendo a estrutura é inestimável.",
+        "author": "Sarah Martinez",
+        "title": "Artista Digital e Defensora do Autismo"
+      },
+      "jordan": {
+        "quote": "Finalmente, um app que entende a disfunção executiva! A função 'Reiniciar Missão' me ajuda a me recuperar em dias difíceis sem vergonha.",
+        "author": "Jordan Taylor",
+        "title": "Estudante e Criador de Conteúdo TDAH"
+      }
+    }
+  },
+  "about": {
+    "title": "Construído Diferente, Porque Somos Diferentes",
+    "description": "MissionControl não nasceu em uma incubadora típica de startups. Foi criado por uma equipe de desenvolvedores, designers e entusiastas de produtividade neurodivergentes que entendem os desafios únicos do TDAH e do autismo."
+  },
+  "cta": {
+    "title": "Pronto para Decolar?",
+    "description": "Junte-se à nossa comunidade neurodivergente de mais de 50.000 exploradores espaciais que estão conquistando tarefas, construindo rotinas e celebrando vitórias juntos.",
+    "button": "Comece Sua Jornada"
+  },
+  "footer": {
+    "links": {
+      "terms": "Termos de Serviço",
+      "privacy": "Política de Privacidade",
+      "contact": "Contato"
+    },
+    "copyright": "© 2024 MissionControl. Todos os direitos reservados."
+  }
+}

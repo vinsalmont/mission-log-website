@@ -1,0 +1,90 @@
+{
+  "header": {
+    "features": "Características",
+    "stories": "Historias",
+    "about": "Acerca de",
+    "download": "Descargar"
+  },
+  "hero": {
+    "tagline": "Hecho por mentes neurodivergentes, para mentes neurodivergentes",
+    "title": "Tu Centro de Control TDAH",
+    "subtitle": "Transforma el caos en claridad con una aplicación de productividad que realmente entiende cómo funciona tu cerebro. Construida por un equipo neurodivergente que lo entiende, porque lo vive.",
+    "stats": {
+      "adhd": "Optimizado para TDAH",
+      "users": "+50.000 Usuarios"
+    },
+    "cta": {
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    }
+  },
+  "features": {
+    "focus": {
+      "title": "Modo de Enfoque que te Entiende",
+      "description": "Diseñado para el cerebro TDAH, nuestro sistema de temporizador inteligente se adapta a tus patrones únicos de concentración",
+      "benefits": [
+        "Función de acompañamiento virtual con compañeros de responsabilidad",
+        "Temporizadores Pomodoro flexibles que se adaptan a tus niveles de energía",
+        "Sonidos ambientales espaciales para mantener el enfoque y bloquear distracciones",
+        "Seguimiento visual del tiempo que lo hace tangible"
+      ]
+    },
+    "achievement": {
+      "title": "Seguimiento de Logros que te Celebra",
+      "description": "Porque cada pequeña victoria merece reconocimiento, especialmente en días difíciles de función ejecutiva",
+      "benefits": [
+        "Animaciones de celebración que aumentan la dopamina al completar tareas",
+        "Seguimiento visual del progreso que motiva sin abrumar",
+        "Sistema de recompensas personalizable para tus intereses únicos",
+        "Seguimiento de rachas comprensivo y amigable con el autismo"
+      ]
+    },
+    "missions": {
+      "title": "Misiones Diarias para tu Viaje Único",
+      "description": "Transforma las tareas abrumadoras en misiones espaciales emocionantes y manejables",
+      "benefits": [
+        "Sistema de desglose de tareas para apoyo de función ejecutiva",
+        "Interfaz sensorial amigable con temas personalizables",
+        "Rutinas flexibles que se adaptan a las fluctuaciones de energía",
+        "Función de 'Reiniciar Misión' para momentos abrumadores"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Historias Reales de Nuestra Tripulación",
+    "stories": {
+      "alex": {
+        "quote": "Como alguien con TDAH, las aplicaciones tradicionales de productividad nunca funcionaron. El tema espacial y los temporizadores flexibles de MissionControl finalmente hacen que la gestión de tareas se sienta natural, no forzada. ¡La función de acompañamiento virtual es revolucionaria para mi concentración!",
+        "author": "Alex Chen",
+        "title": "Desarrollador de Software con TDAH"
+      },
+      "sarah": {
+        "quote": "El diseño sensorial amigable y la interfaz personalizable significa que puedo ajustar todo a mi nivel de comodidad. Como persona autista, tener este control mientras mantengo la estructura es invaluable.",
+        "author": "Sarah Martinez",
+        "title": "Artista Digital y Defensora del Autismo"
+      },
+      "jordan": {
+        "quote": "¡Finalmente, una aplicación que entiende la disfunción ejecutiva! La función 'Reiniciar Misión' me ayuda a recuperarme en días difíciles sin vergüenza. Es como tener un amigo comprensivo que realmente lo entiende.",
+        "author": "Jordan Taylor",
+        "title": "Estudiante y Creador de Contenido TDAH"
+      }
+    }
+  },
+  "about": {
+    "title": "Construido Diferente, Porque Somos Diferentes",
+    "description": "MissionControl no nació en una incubadora típica de startups. Fue creada por un equipo de desarrolladores, diseñadores y entusiastas de la productividad neurodivergentes que entienden los desafíos únicos del TDAH y el autismo de primera mano. Hemos vertido nuestras experiencias, luchas y avances en cada característica."
+  },
+  "cta": {
+    "title": "¿Listo para el Despegue?",
+    "description": "Únete a nuestra comunidad neurodivergente de más de 50,000 exploradores espaciales que están conquistando tareas, construyendo rutinas y celebrando victorias juntos.",
+    "button": "Comienza tu Viaje"
+  },
+  "footer": {
+    "links": {
+      "terms": "Términos de Servicio",
+      "privacy": "Política de Privacidad",
+      "contact": "Contacto"
+    },
+    "copyright": "© 2024 MissionControl. Todos los derechos reservados."
+  }
+}
